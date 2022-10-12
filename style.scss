@@ -1,0 +1,35 @@
+$primary_1:#ee4203c5;
+$primary_2:#fbb10588;
+$primary_3:rgba(216, 76, 76, 0.467);
+$primary_4:brown;
+$font-size:20px;
+
+#title1 {
+    color:$primary_1;
+    font-size: $font_size;
+}
+#title2 {
+    color:$primary_2;
+    font-size: $font_size;
+}
+#title3 {
+    color:$primary_3;
+    font-size: $font_size;
+}
+
+#button1 {
+    background-color: $primary_4;
+}
+#button2 {
+    background-color:$primary_4;
+}
+#button3 {
+    background-color:$primary_4;
+}
+
+
+
+
+
+
+
